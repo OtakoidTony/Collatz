@@ -68,6 +68,9 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
+            this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(265, 334);
+            this.MinimumSize = new System.Drawing.Size(265, 334);
             this.Name = "Form1";
             this.Text = "Collatz Tester";
             this.Load += new System.EventHandler(this.Form1_Load);
