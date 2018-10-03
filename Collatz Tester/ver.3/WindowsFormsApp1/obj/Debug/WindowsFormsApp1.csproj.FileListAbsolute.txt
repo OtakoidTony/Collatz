@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Collatz Tester.exe.config
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Collatz Tester.exe
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Collatz Tester.pdb
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CollatzTester.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Collatz Tester.exe
+C:\Users\user\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Collatz Tester.pdb
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\bin\Debug\Collatz Tester.exe.config
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\bin\Debug\Collatz Tester.exe
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\bin\Debug\Collatz Tester.pdb
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\obj\Debug\CollatzTester.Properties.Resources.resources
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\obj\Debug\Collatz Tester.exe
+C:\Users\toshi\Documents\Collatz Tester\WindowsFormsApp1\obj\Debug\Collatz Tester.pdb
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\obj\Debug\CollatzTester.Properties.Resources.resources
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\obj\Debug\Collatz Tester.exe
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\obj\Debug\Collatz Tester.pdb
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\bin\Debug\Collatz Tester.exe.config
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\bin\Debug\Collatz Tester.exe
+C:\Users\toshi\Documents\Collatz Tester new\WindowsFormsApp1\bin\Debug\Collatz Tester.pdb
