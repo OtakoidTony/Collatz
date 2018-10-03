@@ -15,3 +15,16 @@ To say about collatz tester, First in the case of ver.1, this program can extrac
 コラッツの問題について研究するための貯蔵所です。
 collatz testerフォルダ内にあるのはmicrosoft visual studioを利用して作っており、pythonフォルダ内にあるのはpythonを利用して作ったものです。
 collatz testerについては先にver.1のような場合は、単純に3n+1をわたったデータを抽出する機能のみ搭載されており、ver.2は様々なアルゴリズムを選んでデータを抽出できるようにアップデートしました。 そしてver.3はver.2でグラフ機能を搭載してデータ視覚化ができるように更新しました。
+
+<ruby><rb>澱</rb><rt>よど</rt></ruby>
+ん
+だ
+<ruby><rb>街角</rb><rt>まちかど</rt></ruby>
+で
+<ruby><rb>僕</rb><rt>ぼく</rt></ruby>
+ら
+は
+<ruby><rb>出</rb><rt>で</rt></ruby>
+<ruby><rb>会</rb><rt>あ</rt></ruby>
+っ
+た
