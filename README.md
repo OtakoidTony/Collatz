@@ -13,14 +13,14 @@ To say about collatz tester, First in the case of ver.1, this program can extrac
 ## 日本語
 
 コラッツの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>について<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>するための<ruby><rb>貯蔵</rb><rt>ちょぞう</rt></ruby><ruby><rb>所</rb><rt>しょ</rt></ruby>です。
-collatz testerフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはmicrosoft visual studioを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して作っており、pythonフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはpythonを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して作ったものです。
-collatz testerについては先にver.1のような場合は、単純に3n+1をわたったデータを抽出する機能のみ搭載されており、ver.2は様々なアルゴリズムを選んでデータを抽出できるようにアップデートしました。 そしてver.3はver.2でグラフ機能を搭載してデータ視覚化ができるように更新しました。
+collatz testerフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはmicrosoft visual studioを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>っており、pythonフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはpythonを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>ったものです。
+collatz testerについては<ruby><rb>先</rb><rt>さき</rt></ruby>にver.1のような<ruby><rb>場合</rb><rt>ばあい</rt></ruby>は、単純に3n+1をわたったデータを抽出する機能のみ搭載されており、ver.2は様々なアルゴリズムを選んでデータを抽出できるようにアップデートしました。 そしてver.3はver.2でグラフ機能を搭載してデータ視覚化ができるように更新しました。
 
 <ruby><rb>澱</rb><rt>よど</rt></ruby>んだ<ruby><rb>街角</rb><rt>まちかど</rt></ruby>で<ruby><rb>僕</rb><rt>ぼく</rt></ruby>らは<ruby><rb>出</rb><rt>で</rt></ruby><ruby><rb>会</rb><rt>あ</rt></ruby>った
 
 
 
 
-<ruby><rb>利用</rb><rt>りよう</rt></ruby>
+<ruby><rb>場合</rb><rt>ばあい</rt></ruby>
 
-ない
+つく
