@@ -16,3 +16,9 @@ To say about collatz tester, First in the case of ver.1, this program can extrac
 collatz testerフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはMicrosoft Visual Studioを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>っており、pythonフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはpythonを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>ったものです。
 collatz testerについては<ruby><rb>先</rb><rt>さき</rt></ruby>にver.1のような<ruby><rb>場合</rb><rt>ばあい</rt></ruby>は、<ruby><rb>単純</rb><rt>たんじゅん</rt></ruby>に3n+1をわたったデータを<ruby><rb>抽出</rb><rt>ちゅうしゅつ</rt></ruby>する<ruby><rb>機能</rb><rt>きのう</rt></ruby>のみ<ruby><rb>搭載</rb><rt>とうさい</rt></ruby>されており、ver.2は<ruby><rb>様々</rb><rt>さまざま</rt></ruby>なアルゴリズムを<ruby><rb>選</rb><rt>えら</rt></ruby>んでデータを<ruby><rb>抽出</rb><rt>ちゅうしゅつ</rt></ruby>できるようにアップデートしました。 そしてver.3はver.2でグラフ<ruby><rb>機能</rb><rt>きのう</rt></ruby>を<ruby><rb>搭載</rb><rt>とうさい</rt></ruby>してデータ<ruby><rb>視覚</rb><rt>しかく</rt></ruby><ruby><rb>化</rb><rt>か</rt></ruby>ができるように<ruby><rb>更新</rb><rt>こうしん</rt></ruby>しました。
 
+## 中文
+
+爲研究Collatz推測的儲藏所.
+collatz tester文件夾內的東西是利用microsoft visual studio製作的,python文件夾內的東西是用python製成的.
+對collatz tester,先採用ver.1單純地提取3n+1的數據的功能,ver.2採用多種算法提取數據. 之後ver.3在ver.2上搭載了圖功能,更新了數據視覺化.
+
