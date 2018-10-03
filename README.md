@@ -13,6 +13,6 @@ To say about collatz tester, First in the case of ver.1, this program can extrac
 ## 日本語
 
 コラッツの<ruby><rb>問題</rb><rt>もんだい</rt></ruby>について<ruby><rb>研究</rb><rt>けんきゅう</rt></ruby>するための<ruby><rb>貯蔵</rb><rt>ちょぞう</rt></ruby><ruby><rb>所</rb><rt>しょ</rt></ruby>です。
-collatz testerフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはmicrosoft visual studioを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>っており、pythonフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはpythonを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>ったものです。
+collatz testerフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはMicrosoft Visual Studioを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>っており、pythonフォルダ<ruby><rb>内</rb><rt>ない</rt></ruby>にあるのはpythonを<ruby><rb>利用</rb><rt>りよう</rt></ruby>して<ruby><rb>作</rb><rt>つく</rt></ruby>ったものです。
 collatz testerについては<ruby><rb>先</rb><rt>さき</rt></ruby>にver.1のような<ruby><rb>場合</rb><rt>ばあい</rt></ruby>は、<ruby><rb>単純</rb><rt>たんじゅん</rt></ruby>に3n+1をわたったデータを<ruby><rb>抽出</rb><rt>ちゅうしゅつ</rt></ruby>する<ruby><rb>機能</rb><rt>きのう</rt></ruby>のみ<ruby><rb>搭載</rb><rt>とうさい</rt></ruby>されており、ver.2は<ruby><rb>様々</rb><rt>さまざま</rt></ruby>なアルゴリズムを<ruby><rb>選</rb><rt>えら</rt></ruby>んでデータを<ruby><rb>抽出</rb><rt>ちゅうしゅつ</rt></ruby>できるようにアップデートしました。 そしてver.3はver.2でグラフ<ruby><rb>機能</rb><rt>きのう</rt></ruby>を<ruby><rb>搭載</rb><rt>とうさい</rt></ruby>してデータ<ruby><rb>視覚</rb><rt>しかく</rt></ruby><ruby><rb>化</rb><rt>か</rt></ruby>ができるように<ruby><rb>更新</rb><rt>こうしん</rt></ruby>しました。
 
