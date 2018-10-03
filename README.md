@@ -7,3 +7,7 @@ collatz tester에 대해서는 먼저 ver.1같은 경우 단순히 3n+1를 걸�
 This repository is existed to research about Collatz conjecture.  
 in collatz tester, All file is made with microsoft visual studio, and in python folder, all file is made with python.  
 To say about collatz tester, First in the case of ver.1, this program can extract the data what is output of 3n+1 algorithm with input. And in the case of ver.2, this program can extract the data what is output of some algorithm with input. And ver.3 can data visualization and ver.3 includes all function what is included old version's function.
+
+コラッツの問題について研究するための貯蔵所です。
+collatz testerフォルダ内にあるのはmicrosoft visual studioを利用して作っており、pythonフォルダ内にあるのはpythonを利用して作ったものです。
+collatz testerについては先にver.1のような場合は、単純に3n+1をわたったデータを抽出する機能のみ搭載されており、ver.2は様々なアルゴリズムを選んでデータを抽出できるようにアップデートしました。 そしてver.3はver.2でグラフ機能を搭載してデータ視覚化ができるように更新しました。
