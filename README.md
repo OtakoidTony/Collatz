@@ -18,7 +18,7 @@ collatz testerについては<ruby><rb>先</rb><rt>さき</rt></ruby>にver.1の
 
 ## 中文
 
-爲研究Collatz推測的儲藏所.
-collatz tester文件夾內的東西是利用microsoft visual studio製作的,python文件夾內的東西是用python製成的.
+爲研究Collatz推測的儲藏所.  
+collatz tester文件夾內的東西是利用microsoft visual studio製作的,python文件夾內的東西是用python製成的.  
 對collatz tester,先採用ver.1單純地提取3n+1的數據的功能,ver.2採用多種算法提取數據. 之後ver.3在ver.2上搭載了圖功能,更新了數據視覺化.
 
