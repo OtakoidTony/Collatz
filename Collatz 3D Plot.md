@@ -6,7 +6,7 @@
 CollatzList[i_]:=NestList[ If[# == 1, 1, If[EvenQ[#], #/2, (3 # + 1)/2]] &, i, 100]
 
 ListPlot3D[
-    Table[CollatzList(i), {i, 200}],
+    Table[CollatzList[i], {i, 200}],
         Mesh -> All,
         DataRange -> All,
         PlotRange -> All
