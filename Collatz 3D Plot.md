@@ -8,6 +8,7 @@ ListPlot3D[
     Table[CollatzList[i], {i, 200}],
         Mesh -> All,
         DataRange -> All,
-        PlotRange -> All
+        PlotRange -> All,
+        PlotTheme -> "Detailed"
 ]
  ```
