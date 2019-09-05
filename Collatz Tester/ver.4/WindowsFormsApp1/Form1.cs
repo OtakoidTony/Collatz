@@ -43,7 +43,7 @@ namespace WindowsFormsApp1
                         temp = temp * 3 + 1;
                     }
                     textBox2.Text = textBox2.Text + "," + temp;
-                    if (tempList.Contains(temp)==true)
+                    if (tempList.Contains(temp) == true)
                     {
                         break;
                     }
@@ -546,6 +546,11 @@ namespace WindowsFormsApp1
                     tempList.Add(temp);
                 }
             }
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
