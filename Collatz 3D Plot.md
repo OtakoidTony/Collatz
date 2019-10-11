@@ -11,4 +11,10 @@ ListPlot3D[
         PlotRange -> All,
         PlotTheme -> "Detailed"
 ]
+
+ListPlot[CollatzList[30]]
+
+ListContourPlot[Table[CollatzList[i],{i,2,100}],DataRange -> All,
+        PlotRange -> All,
+        PlotTheme -> "Detailed"]
  ```
