@@ -17,4 +17,7 @@ ListPlot[CollatzList[30]]
 ListContourPlot[Table[CollatzList[i],{i,2,100}],DataRange -> All,
         PlotRange -> All,
         PlotTheme -> "Detailed"]
+        
+        
+Collatz[base_][n_]:=CollatzList[base][[n]]
  ```
