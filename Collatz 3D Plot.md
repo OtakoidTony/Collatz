@@ -20,4 +20,10 @@ ListContourPlot[Table[CollatzList[i],{i,2,100}],DataRange -> All,
         
         
 Collatz[base_][n_]:=CollatzList[base][[n]]
+
+OneWorkCollatz[base_,x_]:=If[Collatz[base][x]-Collatz[base][x-1]<0,-1,If[Collatz[base][x]-Collatz[base][x-1]>0,1,0]]
+
+Plot[OneWorkCollatz[111,Floor[x]],{x,3,70},PlotRange -> All,
+        PlotTheme -> "Detailed"
+]
  ```
